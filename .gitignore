@@ -1,0 +1,7 @@
+# START
+
+.idea
+cmake-build-debug
+CMakeLists.txt
+
+#END
